@@ -1,6 +1,6 @@
 #!/bin/bash
 
-baseDir = "/Bug_Bounty/scripts/recon"
+baseDir = "/Bug_Bounty/programs/"
 
 if [[ -d "baseDir" ]]; then
     for dir in "$baseDir"/*/; do 
