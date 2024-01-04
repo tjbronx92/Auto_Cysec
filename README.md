@@ -6,11 +6,15 @@ Scripts to automate each stage of the [Cyber Kill Chain](https://www.slcyber.io/
 
 <details>
 <summary>Recon</summary>
-- EnumDom.sh - Domain Enumeration </br>
-- XSSseek.py - XSS Exploit Sniffer
+    <ul>
+        <li>EnumDom.sh - Domain Enumeration </li>
+        <li>XSSseek.py - XSS Exploit Sniffer</li>
+    <ul>
 </details>
 
 <details>
 <summary>Exploitation</summary>
-- SQLinjector.py 
+    <ul>
+        <li>SQLinjector.py </li>
+    <ul>
 </details>
