@@ -1,6 +1,6 @@
 # Auto_Cysec  
 
-![image](https://prodigy13.com/wp-content/uploads/2022/12/the-cyber-kill-chain-1.jpg "Cyber Kill Chain")
+![image](/img/cyber_kill_chain.jpeg "Cyber Kill Chain")
 
 Scripts to automate each stage of the [Cyber Kill Chain](https://www.slcyber.io/shifting-left-in-the-cyber-kill-chain/).
 
